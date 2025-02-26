@@ -1,1 +1,0 @@
-web: node ./messaging-app-backend/server.js
