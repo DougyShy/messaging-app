@@ -1,1 +1,1 @@
-web: ./messaging-app-backend/server.JS
+web: node ./messaging-app-backend/server.JS
